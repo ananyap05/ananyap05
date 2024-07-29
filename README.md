@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Ananya Priyadarshini. Still looking for that missing semi-colon 🤫.</h3>
+<h3 align="center">Hi, I'm Ananya Priyadarshini.</h3>
 
 ###
 
